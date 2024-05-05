@@ -29,7 +29,7 @@ This project is the culmination of the EECS 485 series, focusing on developing a
 - **Reusable Code**: Refactors existing server-side code from Project 2 to enhance functionality and adapt to a client-driven architecture.
 
 ### Implementation
-- **JavaScript and AJAX**: Leverages advanced JavaScript and AJAX techniques for dynamic content management and real-time web page updates.
+- **ReactJS and AJAX**: Leverages advanced ReactJS and AJAX techniques for dynamic content management and real-time web page updates.
 - **REST API Design**: Designs a comprehensive REST API that handles all back-end functionalities, including CRUD operations (Create, Read, Update, Delete) on posts, comments, and user profiles.
 - **Asynchronous Programming**: Employs asynchronous programming paradigms to handle web requests efficiently, improving responsiveness and user experience.
 - **Command Line Proficiency**: Enhances command-line skills through advanced project setup and development environment management.
