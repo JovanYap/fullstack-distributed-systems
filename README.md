@@ -1,5 +1,5 @@
 # fullstack-distributed-systems
-I spearheaded the development of an Instagram-like web application that featured both client-side and server-side rendering, integrated with a MapReduce distributed system and a custom search engine. In compliance with the University of Michigan's honor code, I am not allowed to publicly disclose the source code. However, detailed descriptions of the project's key functionalities and technological implementations are provided below to illustrate the scope and depth of my technical capabilities.
+I spearheaded the development of an Instagram-like web application that featured both client-side and server-side rendering, integrated with a MapReduce distributed system and a custom search engine. In compliance with the University of Michigan's honor code, I am not allowed to publicly disclose the source code. However, detailed descriptions of the project's key functionalities and technological implementations are provided below to showcase my technical experiences.
 
 ## List of projects and their specifications
 - [project 2: insta485-serverside](https://eecs485staff.github.io/p2-insta485-serverside/)
